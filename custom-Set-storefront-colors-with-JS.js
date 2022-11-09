@@ -4,7 +4,7 @@ window.ec.config = window.ec.config || Object();
 window.ec.config.chameleon = window.ec.config.chameleon || Object();
 window.ec.config.chameleon = {
   colors: {
-    'color-button':'red'
+    'color-button':'blue'
   },
   font: {
     'font-family': 'arial,sans-serif'
