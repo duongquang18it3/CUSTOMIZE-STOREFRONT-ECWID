@@ -12,7 +12,7 @@ button.gwt-Button, #wrapper button.gwt-Button {
    
   button.gwt-Button:active,
   #wrapper button.gwt-Button:active { 
-    background-color: #999999; 
+    background-color: #fff000; 
   }  
    
   div.ecwid-productBrowser-details-rightPanel div.ecwid-productBrowser-backgroundedPanel {
